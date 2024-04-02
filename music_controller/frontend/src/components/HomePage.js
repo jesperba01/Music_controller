@@ -10,7 +10,7 @@ import {
   Link,
   Redirect,
 } from "react-router-dom";
-import Info from "./info";
+import Info from "./Info";
 
 export default class HomePage extends Component {
   constructor(props) {
